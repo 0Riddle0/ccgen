@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet Dolce
+figlet CCGEN
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
