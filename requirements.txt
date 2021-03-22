@@ -1,0 +1,4 @@
+ruby
+figlet
+git
+python2
